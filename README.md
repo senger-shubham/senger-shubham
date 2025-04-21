@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 Reach me at: swapan.9057316@gmail.com
 
 -   Connect with:
--   [LinkedIn](https://www.linkedin.com/in/shubham-singh-597a38229/)
+-   [LinkedIn](https://www.linkedin.com/in/sengar-shubham/)
