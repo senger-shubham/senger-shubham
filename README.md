@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @senger-shubham
 
 - 🌱 I’m currently learning:
--              > Androind App Developemnt with JAVA, Working on 
+-              >  JAVA , spring boot and DSA
 -    Working on:
--              > FitGo App 
+-              > React based portfolio
 -              > React base blogging site.
 -    Previous Experience:
 -              > Food Devlivery Web App ( React/Tailwind )
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 
 -   Connect with:
 -   [LinkedIn](https://www.linkedin.com/in/sengar-shubham/)
+-   [LeetCode](https://leetcode.com/u/Shubhu_thakur7/)
