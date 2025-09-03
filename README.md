@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -              >  JAVA , spring boot and DSA
 -    Working on:
 -              > React based portfolio
--              > React base blogging site.
+-              > java project with swing api.
 -    Previous Experience:
 -              > Food Devlivery Web App ( React/Tailwind )
 -              > Quiz App ( Java/ANDROID )
