@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -              > java project with swing api.
 -    Previous Experience:
 -              > Food Devlivery Web App ( React/Tailwind )
--              > Quiz App ( Java/ANDROID )
+-              > Portfolio ( React/Tailwind )
 -              > Bubble Hiter Game ( JS/HTML/css )
 - 💞 I’m looking to collaborate on any project.
 - 📫 Reach me at: swapan.9057316@gmail.com
