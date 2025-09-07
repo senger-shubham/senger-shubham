@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @senger-shubham
 
 - 🌱 I’m currently learning:
--              >  JAVA , spring boot and DSA
+-              >  JAVA , spring boot ,JDBC and DSA
 -    Working on:
 -              > React based portfolio
 -              > java project with swing api.
