@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:
 -              >  JAVA , JDBC and DSA, spring boot , spring security, microservices
 -    Working on:
--              > React based portfolio
--              > java project with swing api.
+-              > Banking project with springboot
+-              > learning microservices
 -    Previous Experience:
 -              > Food Devlivery Web App ( React/Tailwind )
 -              > Portfolio ( React/Tailwind )
